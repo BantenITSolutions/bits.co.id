@@ -1,0 +1,162 @@
+1422503456s:10703:"a:5:{s:5:"mtime";i:1422444067;s:7:"content";s:5288:"        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">BITS Team</h2>
+                <p class="spasi text-center wow fadeInDown">Kami tidak bekerja sendirian, kami mempunyai team profesional yang sangat solid <br> Silahkan lihat beberapa profil team kami</p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/01.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Nurul Imam</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <p>Seorang Web Developer yang menyukai dunia programming dan menguasai beberapa skill diantaranya HTML5, CSS3, jQuery, Node.js, PHP, ASP.Net, C#, &amp; Ruby</p>
+                        <ul class="social-icons">
+                            <li><a href="https://facebook.com/nurulimamnotes"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/nurulimamnotes"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://plus.google.com/+NurulImamnotes"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="http://id.linkedin.com/in/nurulimam"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/02.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Indra Kusuma</h3>
+                            <span>System Administrator</span>
+                        </div>
+                        <p>Seorang System Administrator yang menyukai Linux &amp; Networking dan terbiasa menangani Installasi &amp; Maintenance Sistem, Server, VPS dan Security Testing</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/03.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Mulyadi</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <p>Seorang Web Developer yang mempunyai hobi coding dan mempunyai beberapa skill pemrograman diantaranya PHP, ASP.Net, MySQL &amp; Laravel PHP Framework</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/04.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Zaenuddin</h3>
+                            <span>UI/UX Designer</span>
+                        </div>
+                        <p>Seorang Web Designer yang menguasai beberapa skill diantaranya HTML5, CSS3, Twitter Bootstrap, jQuery, PHP, WordPress, Adobe Photoshop &amp; CorelDraw</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+";s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:5279:"<div class="container">
+            <div class="section-header">
+                <h2 class="section-title text-center wow fadeInDown">BITS Team</h2>
+                <p class="spasi text-center wow fadeInDown">Kami tidak bekerja sendirian, kami mempunyai team profesional yang sangat solid <br> Silahkan lihat beberapa profil team kami</p>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/01.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Nurul Imam</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <p>Seorang Web Developer yang menyukai dunia programming dan menguasai beberapa skill diantaranya HTML5, CSS3, jQuery, Node.js, PHP, ASP.Net, C#, &amp; Ruby</p>
+                        <ul class="social-icons">
+                            <li><a href="https://facebook.com/nurulimamnotes"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/nurulimamnotes"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://plus.google.com/+NurulImamnotes"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="http://id.linkedin.com/in/nurulimam"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/02.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Indra Kusuma</h3>
+                            <span>System Administrator</span>
+                        </div>
+                        <p>Seorang System Administrator yang menyukai Linux &amp; Networking dan terbiasa menangani Installasi &amp; Maintenance Sistem, Server, VPS dan Security Testing</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/03.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Mulyadi</h3>
+                            <span>Web Developer</span>
+                        </div>
+                        <p>Seorang Web Developer yang mempunyai hobi coding dan mempunyai beberapa skill pemrograman diantaranya PHP, ASP.Net, MySQL &amp; Laravel PHP Framework</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
+                        <div class="team-img">
+                            <img class="img-responsive" src="{{ 'assets/images/team/04.jpg'|theme }}" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h3>Zaenuddin</h3>
+                            <span>UI/UX Designer</span>
+                        </div>
+                        <p>Seorang Web Designer yang menguasai beberapa skill diantaranya HTML5, CSS3, Twitter Bootstrap, jQuery, PHP, WordPress, Adobe Photoshop &amp; CorelDraw</p>
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>";}";
