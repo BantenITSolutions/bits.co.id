@@ -1,0 +1,181 @@
+1422503577s:12536:"a:5:{s:5:"mtime";i:1422502970;s:7:"content";s:6200:"<div class="container">
+    <div class="col-md-3">
+        <h3>Hasil Kerja Terakhir</h3>
+        <p>Beberapa hasil karya kami yang sudah kami selesaikan diantaranya desain website, desain logo, pembuatan aplikasi dan lain-lain</p>
+        <div class="btn-group">
+        <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="fa fa-angle-double-left"></i></a>
+        <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="fa fa-angle-double-right"></i></a>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div id="scroller" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/1.jpg'|theme }}" class="img-responsive wp-post-image" alt="PT. Jamkrida Banten" title="PT. Jamkrida Banten" height="346" width="400">
+                                    <h5>PT. Jamkrida Banten</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="PT. Jamkrida Banten" href="{{ 'assets/images/portfolio/1.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/2.jpg'|theme }}" class="img-responsive wp-post-image" alt="Qienzu Putri Digital Printing" title="Qienzu Putri Digital Printing" height="346" width="400">
+                                    <h5>Qienzu Putri Digital Printing</h5>
+                                    <div class="overlay">
+                                    Qienzu Putri Digital Printing" href="{{ 'assets/images/portfolio/2.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/3.jpg'|theme }}" class="img-responsive wp-post-image" alt="Forum Komunikasi Wirausaha Kota Serang" title="Forum Komunikasi Wirausaha Kota Serang" height="346" width="400">
+                                    <h5>Forum Komunikasi Kota Serang</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Forum Komunikasi Wirausaha Kota Serang" href="{{ 'assets/images/portfolio/3.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item ">
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/4.jpg'|theme }}" class="img-responsive wp-post-image" alt="OS Cart - Banten Fashions" title="OS Cart - Banten Fashions" height="346" width="400">
+                                    <h5>OS Cart - Banten Fashions</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="OS Cart - Banten Fashions" href="{{ 'assets/images/portfolio/4.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/5.jpg'|theme }}" class="img-responsive wp-post-image" alt="Woocommerce - Banten Fashions" title="Woocommerce - Banten Fashions" height="346" width="400">
+                                    <h5>Woocommerce - Banten Fashions</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Woocommerce - Banten Fashions" href="{{ 'assets/images/portfolio/5.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/6.jpg'|theme }}" class="img-responsive wp-post-image" alt="Pantau Banten - Berita Banten" title="Pantau Banten - Berita Banten" height="346" width="400">
+                                    <h5>Pantau Banten - Berita Banten</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Pantau Banten - Berita Banten" href="{{ 'assets/images/portfolio/6.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:6200:"<div class="container">
+    <div class="col-md-3">
+        <h3>Hasil Kerja Terakhir</h3>
+        <p>Beberapa hasil karya kami yang sudah kami selesaikan diantaranya desain website, desain logo, pembuatan aplikasi dan lain-lain</p>
+        <div class="btn-group">
+        <a class="btn btn-danger" href="#scroller" data-slide="prev"><i class="fa fa-angle-double-left"></i></a>
+        <a class="btn btn-danger" href="#scroller" data-slide="next"><i class="fa fa-angle-double-right"></i></a>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div id="scroller" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/1.jpg'|theme }}" class="img-responsive wp-post-image" alt="PT. Jamkrida Banten" title="PT. Jamkrida Banten" height="346" width="400">
+                                    <h5>PT. Jamkrida Banten</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="PT. Jamkrida Banten" href="{{ 'assets/images/portfolio/1.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/2.jpg'|theme }}" class="img-responsive wp-post-image" alt="Qienzu Putri Digital Printing" title="Qienzu Putri Digital Printing" height="346" width="400">
+                                    <h5>Qienzu Putri Digital Printing</h5>
+                                    <div class="overlay">
+                                    Qienzu Putri Digital Printing" href="{{ 'assets/images/portfolio/2.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/3.jpg'|theme }}" class="img-responsive wp-post-image" alt="Forum Komunikasi Wirausaha Kota Serang" title="Forum Komunikasi Wirausaha Kota Serang" height="346" width="400">
+                                    <h5>Forum Komunikasi Kota Serang</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Forum Komunikasi Wirausaha Kota Serang" href="{{ 'assets/images/portfolio/3.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item ">
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/4.jpg'|theme }}" class="img-responsive wp-post-image" alt="OS Cart - Banten Fashions" title="OS Cart - Banten Fashions" height="346" width="400">
+                                    <h5>OS Cart - Banten Fashions</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="OS Cart - Banten Fashions" href="{{ 'assets/images/portfolio/4.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/5.jpg'|theme }}" class="img-responsive wp-post-image" alt="Woocommerce - Banten Fashions" title="Woocommerce - Banten Fashions" height="346" width="400">
+                                    <h5>Woocommerce - Banten Fashions</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Woocommerce - Banten Fashions" href="{{ 'assets/images/portfolio/5.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4">
+                            <div class="portfolio-item">
+                                <div class="item-inner">
+                                    <img src="{{ 'assets/images/portfolio/6.jpg'|theme }}" class="img-responsive wp-post-image" alt="Pantau Banten - Berita Banten" title="Pantau Banten - Berita Banten" height="346" width="400">
+                                    <h5>Pantau Banten - Berita Banten</h5>
+                                    <div class="overlay">
+                                        <a class="preview btn btn-danger" title="Pantau Banten - Berita Banten" href="{{ 'assets/images/portfolio/6.jpg'|theme }}" rel="prettyPhoto"><i class="fa fa-paper-plane"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}";
